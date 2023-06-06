@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4215be57-61de-41a2-8534-9e6fcd5c7e6d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/balonismo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Balao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="4215be57-61de-41a2-8534-9e6fcd5c7e6d" name="Changes" comment="primeira classe">
+      <change beforePath="$PROJECT_DIR$/src/Balao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Balao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +47,16 @@
       <updated>1685616688637</updated>
       <workItem from="1685616690799" duration="2320000" />
       <workItem from="1686046798222" duration="108000" />
-      <workItem from="1686046913791" duration="1635000" />
+      <workItem from="1686046913791" duration="2807000" />
     </task>
+    <task id="LOCAL-00001" summary="primeira classe">
+      <created>1686050013347</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686050013347</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,5 +72,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primeira classe" />
+    <option name="LAST_COMMIT_MESSAGE" value="primeira classe" />
   </component>
 </project>
